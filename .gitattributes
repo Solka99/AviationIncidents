@@ -1,2 +1,0 @@
-ntsb_cases.json filter=lfs diff=lfs merge=lfs -text
-ntsb_70000_rows_backup.json filter=lfs diff=lfs merge=lfs -text
