@@ -1,0 +1,2 @@
+experiment,starting model,learning rate,class weight power,label smoothing,epochs trained,best epoch,validation macro F1,test accuracy,test macro F1
+adapted_lr3e-05_weights0.5_smoothing0.1_epochs8,adapted,3e-05,0.5,0.1,4,2,61.51,67.58,58.62
